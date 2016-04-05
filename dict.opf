@@ -13,8 +13,8 @@
     <x-metadata>
       <EmbeddedCover>images/cover.jpg</EmbeddedCover>
       <!-- That's how it's recognized as a dictionary: -->
-      <DictionaryInLanguage>en</DictionaryInLanguage>
-      <DictionaryOutLanguage>en</DictionaryOutLanguage>
+      <DictionaryInLanguage>pt-br</DictionaryInLanguage>
+      <DictionaryOutLanguage>pt-br</DictionaryOutLanguage>
       <DefaultLookupIndex>got</DefaultLookupIndex>
     </x-metadata>
   </metadata>
